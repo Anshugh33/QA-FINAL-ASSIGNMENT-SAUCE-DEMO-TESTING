@@ -43,7 +43,7 @@ dashboard.click_about()
 driver.back()
 time.sleep(2)
 
-# Cart tests - add items first
+# Cart tests,add items first
 cart.add_items()
 
 # Open burger menu to reset app state (removes cart items)
